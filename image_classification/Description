@@ -1,0 +1,3 @@
+Image analysis or image processing is the most researched topic in deep learning. Image processing simply means extracting information from images
+and learning from images. This is an important aspect of computer vision. In deep learning, image processing is largely done using convolutional neural
+networks (CNNs) and can be generally divided into image classification, object detection, image segmentation, and so on.
